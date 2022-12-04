@@ -1,5 +1,13 @@
 {
   "dependencies": {
     "inquirer": "^8.2.4"
+  },
+  "scripts": {
+    "start": "node index",
+    "watch": "nodemon index",
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^29.3.1"
   }
 }

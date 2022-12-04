@@ -10,7 +10,7 @@ describe('', () => {
 
   it("Properly uses school input", () => {
     // Arrange/Act
-    const intern = new Engineer('Rigby', 42, 'therealtrashboat@hotmail.com', 'High School University');
+    const intern = new Intern('Rigby', 42, 'therealtrashboat@hotmail.com', 'High School University');
     // Assert
     expect(intern.school).toBe('High School University');
   });
