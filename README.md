@@ -21,9 +21,9 @@ Here is a screenshot of the generated team webpage.
 ## Credits
 
 - Bootstrap: https://getbootstrap.com/
-- NodeJS: https://nodejs.org/en/
-- Jest: https://www.npmjs.com/package/jest
 - Inquirer: https://www.npmjs.com/package/inquirer
+- Jest: https://www.npmjs.com/package/jest
+- NodeJS: https://nodejs.org/en/
 
 ## License
 
